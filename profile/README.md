@@ -1,9 +1,9 @@
-## 👋 Welcome to the [Netvent](https://netvent.com/) GitHub organization 👋
+## 👋 Welcome to the [App Samurai](https://appsamurai.com/) GitHub organization 👋
 
-<!-- ![Netvent Logo](https://avatars.githubusercontent.com/u/10113643?s=200&v=4) -->
-<img src="https://avatars.githubusercontent.com/u/10113643?s=200&v=4" height="100" alt="Netvent Logo">
+<!-- ![App Samurai Logo]([https://avatars.githubusercontent.com/u/10113643?s=200&v=4](https://media.licdn.com/dms/image/v2/C4D0BAQHSoNLH6uuffg/company-logo_200_200/company-logo_200_200/0/1647002253184/apsamurai_logo?e=2147483647&v=beta&t=SHbKTBI9QxBstawtoaff5vuYfettYtRQA0fNZ0B8Xco)) -->
+<img src="https://media.licdn.com/dms/image/v2/C4D0BAQHSoNLH6uuffg/company-logo_200_200/company-logo_200_200/0/1647002253184/apsamurai_logo?e=2147483647&v=beta&t=SHbKTBI9QxBstawtoaff5vuYfettYtRQA0fNZ0B8Xco" height="100" alt="App Samurai Logo">
 
-This is the official GitHub organization of **Netvent**, where we share our SDKs, integrations, frameworks, and open-source contributions. Explore our repositories to enhance your development workflow and bring your ideas to life.
+This is the official GitHub organization of **App Samurai**, where we share our SDKs, integrations, frameworks, and open-source contributions. Explore our repositories to enhance your development workflow and bring your ideas to life.
 
 ---
 
